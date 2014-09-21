@@ -1,4 +1,3 @@
-Syllabus 
 
 Course Title
 Statistical Inference
